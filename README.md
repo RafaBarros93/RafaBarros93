@@ -28,6 +28,6 @@
   
 ### 🤙 Talk to me ! 
 
--  👔 👔<a href="https://www.linkedin.com/in/rafael-lopes-838783108/">![Linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin)</a>
+-  👔 👔<a href="https://www.linkedin.com/in/rafael-lopes-838783108/"> ![Linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin)</a>
 
 
