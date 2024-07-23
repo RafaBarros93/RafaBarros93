@@ -30,4 +30,5 @@
 
 -  👔 👔<a href="https://www.linkedin.com/in/rafael-lopes-838783108/"> ![Linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin)</a>
 
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=RafaBarros93&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaBarros93&layout=compact&theme=graywhite"/> </p>
